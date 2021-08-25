@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="90" viewBox="0 0 90 90">
+  <g id="Group_15564" data-name="Group 15564" transform="translate(561 -13435)">
+    <g id="Rectangle_3881" data-name="Rectangle 3881" transform="translate(-561 13435)" fill="#fff" stroke="#e9e9e9" stroke-width="1.9">
+      <rect width="90" height="90" rx="15" stroke="none"/>
+      <rect x="0.95" y="0.95" width="88.1" height="88.1" rx="14.05" fill="none"/>
+    </g>
+    <g id="Group_14685" data-name="Group 14685" transform="translate(-1078.843 13208.638)">
+      <path id="Path_21125" data-name="Path 21125" d="M544.759,243.365A101.1,101.1,0,0,0,563.808,281s-16.455-.528-22.209-11.609a23.566,23.566,0,0,1,3.16-26.025" fill="#de0108" fill-rule="evenodd"/>
+      <path id="Path_21126" data-name="Path 21126" d="M569.191,286.646a53.834,53.834,0,0,0,19.441,11.935s-10.244.833-16.433-2.2-12.619-7.891-16.587-8.243-6.321-.549-7.367-1.607H569.19" fill="#de0108" fill-rule="evenodd"/>
+      <path id="Path_21127" data-name="Path 21127" d="M578.345,287.107c-2.506-5.913-14.537-6.111-14.537-6.111s3.269,3.583,5.383,5.649a46.574,46.574,0,0,1,9.154.461" fill="#de0108" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

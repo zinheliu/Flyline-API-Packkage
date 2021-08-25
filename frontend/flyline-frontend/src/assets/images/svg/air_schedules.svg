@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="846.509" height="498.543" viewBox="0 0 846.509 498.543">
+  <defs>
+    <filter id="Rectangle_3589" x="0" y="1.648" width="846.509" height="496.895" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_16129" data-name="Group 16129" transform="translate(1662.613 -7051.376)">
+    <g id="Group_16128" data-name="Group 16128" transform="translate(-1344.104 204)">
+      <g id="Group_15781" data-name="Group 15781" transform="translate(9511.391 2222.87)">
+        <g id="Group_15806" data-name="Group 15806">
+          <g id="Group_15801" data-name="Group 15801">
+            <g id="Group_15795" data-name="Group 15795">
+              <g id="Group_15791" data-name="Group 15791" transform="translate(0 -11)">
+                <g id="Group_15788" data-name="Group 15788" transform="translate(-4609.795 -1503.247)">
+                  <g id="Group_15711" data-name="Group 15711">
+                    <g id="Group_14422" data-name="Group 14422" transform="translate(-5999.141 5955.402)">
+                      <g id="Group_14405" data-name="Group 14405" transform="translate(787.735 190.999)">
+                        <g transform="matrix(1, 0, 0, 1, -8.7, -7.65)" filter="url(#Rectangle_3589)">
+                          <g id="Rectangle_3589-2" data-name="Rectangle 3589" transform="translate(9 7.65)" fill="#fff">
+                            <path d="M 818.50927734375 478.3945922851562 L 9.999972343444824 478.3945922851562 C 4.761638641357422 478.3945922851562 0.499972015619278 474.1328125 0.499972015619278 468.8945007324219 L 0.499972015619278 10.00004386901855 C 0.499972015619278 4.761710166931152 4.761638641357422 0.5000433921813965 9.999972343444824 0.5000433921813965 L 818.50927734375 0.5000433921813965 C 823.7476196289062 0.5000433921813965 828.00927734375 4.761710166931152 828.00927734375 10.00004386901855 L 828.00927734375 468.8945007324219 C 828.00927734375 474.1328125 823.7476196289062 478.3945922851562 818.50927734375 478.3945922851562 Z" stroke="none"/>
+                            <path d="M 10 0.99993896484375 C 5.03729248046875 0.99993896484375 1 5.037384033203125 1 10.00003051757812 L 1 468.8945007324219 C 1 473.8571472167969 5.03729248046875 477.8945007324219 10 477.8945007324219 L 818.50927734375 477.8945007324219 C 823.4719848632812 477.8945007324219 827.50927734375 473.8571472167969 827.50927734375 468.8945007324219 L 827.50927734375 10.00003051757812 C 827.50927734375 5.037384033203125 823.4719848632812 0.99993896484375 818.50927734375 0.99993896484375 L 10 0.99993896484375 M 10 -6.103515625e-05 L 818.50927734375 -6.103515625e-05 C 824.0321044921875 -6.103515625e-05 828.50927734375 4.477142333984375 828.50927734375 10.00003051757812 L 828.50927734375 468.8945007324219 C 828.50927734375 474.4173889160156 824.0321044921875 478.8945007324219 818.50927734375 478.8945007324219 L 10 478.8945007324219 C 4.4771728515625 478.8945007324219 0 474.4173889160156 0 468.8945007324219 L 0 10.00003051757812 C 0 4.477142333984375 4.4771728515625 -6.103515625e-05 10 -6.103515625e-05 Z" stroke="none" fill="#ececec"/>
+                          </g>
+                        </g>
+                        <path id="Path_17221" data-name="Path 17221" d="M1543.734-2891.479v20.414H716.089v-20.413c0-7.009,7.868-12.743,17.484-12.743h792.681C1535.866-2904.221,1543.734-2898.486,1543.734-2891.479Z" transform="translate(-715.088 2897.073)" fill="#f9f9f9" stroke="#ececec" stroke-width="1"/>
+                        <g id="Group_14404" data-name="Group 14404" transform="translate(14.301 41)">
+                          <rect id="Rectangle_3585" data-name="Rectangle 3585" width="15" height="16" transform="translate(0 393.895)" fill="#fff"/>
+                        </g>
+                      </g>
+                      <circle id="Ellipse_464" data-name="Ellipse 464" cx="5.414" cy="5.414" r="5.414" transform="translate(851.006 201.936) rotate(-45)" fill="#65c87a"/>
+                      <circle id="Ellipse_465" data-name="Ellipse 465" cx="5.414" cy="5.414" r="5.414" transform="translate(831.403 201.936) rotate(-45)" fill="#fadf4d"/>
+                      <circle id="Ellipse_466" data-name="Ellipse 466" cx="5.414" cy="5.414" r="5.414" transform="translate(808.403 201.936) rotate(-45)" fill="#ea4d44"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_15796" data-name="Group 15796" transform="translate(-9794.511 4686.046)">
+              <rect id="Rectangle_3944" data-name="Rectangle 3944" width="28.714" height="6.223" rx="3.111" transform="translate(0 29.326)" fill="#ececec"/>
+              <rect id="Rectangle_3943" data-name="Rectangle 3943" width="28.714" height="24.705" rx="4" fill="#ececec"/>
+            </g>
+            <line id="Line_51" data-name="Line 51" y2="453.656" transform="translate(-9743.644 4657.393)" fill="none" stroke="#ececec" stroke-width="1"/>
+            <text id="Flights" transform="translate(-9780.154 4794.344)" fill="#2233f0" font-size="8" font-family="Gilroy-Bold, Gilroy" font-weight="700"><tspan x="-12.188" y="0">Flights</tspan></text>
+            <path id="Path_21762" data-name="Path 21762" d="M22.072,16.79V14.677L13.621,9.4V3.585a1.585,1.585,0,1,0-3.169,0V9.4L2,14.677V16.79l8.451-2.641v5.81L8.339,21.544v1.585l3.7-1.056,3.7,1.056V21.544l-2.113-1.585v-5.81Z" transform="translate(-9792.189 4752.822)" fill="#2233f0"/>
+            <g id="Group_15797" data-name="Group 15797" transform="translate(-9794.512 4829.571)">
+              <rect id="Rectangle_3944-2" data-name="Rectangle 3944" width="28.714" height="6.223" rx="3.111" transform="translate(0 29.326)" fill="#ececec"/>
+              <rect id="Rectangle_3943-2" data-name="Rectangle 3943" width="28.714" height="24.705" rx="4" fill="#ececec"/>
+            </g>
+            <g id="Group_15798" data-name="Group 15798" transform="translate(-9794.51 4898.348)">
+              <rect id="Rectangle_3944-3" data-name="Rectangle 3944" width="28.714" height="6.223" rx="3.111" transform="translate(0 29.326)" fill="#ececec"/>
+              <rect id="Rectangle_3943-3" data-name="Rectangle 3943" width="28.714" height="24.705" rx="4" fill="#ececec"/>
+            </g>
+            <g id="Group_15799" data-name="Group 15799" transform="translate(-9794.512 4967.124)">
+              <rect id="Rectangle_3944-4" data-name="Rectangle 3944" width="28.714" height="6.223" rx="3.111" transform="translate(0 29.326)" fill="#ececec"/>
+              <rect id="Rectangle_3943-4" data-name="Rectangle 3943" width="28.714" height="24.705" rx="4" fill="#ececec"/>
+            </g>
+            <g id="Group_15800" data-name="Group 15800" transform="translate(-9794.512 5035.9)">
+              <rect id="Rectangle_3944-5" data-name="Rectangle 3944" width="28.714" height="6.223" rx="3.111" transform="translate(0 29.326)" fill="#ececec"/>
+              <rect id="Rectangle_3943-5" data-name="Rectangle 3943" width="28.714" height="24.705" rx="4" fill="#ececec"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_16127" data-name="Group 16127" transform="translate(-306.781 194.989)">
+      <g id="Group_16126" data-name="Group 16126" transform="translate(1543.747 830.146)">
+        <text id="Flight_No" data-name="Flight No" transform="translate(-2768.063 6197.961)" fill="#333" font-size="11" font-family="Gilroy-Bold, Gilroy" font-weight="700"><tspan x="0" y="0">Flight No</tspan></text>
+        <text id="International_Departures" data-name="International Departures" transform="translate(-2768.653 6114.486)" fill="#333" font-size="21" font-family="Gilroy-Bold, Gilroy" font-weight="700"><tspan x="0" y="0">International Departures</tspan></text>
+        <text id="Destination" transform="translate(-2662.707 6197.961)" fill="#333" font-size="11" font-family="Gilroy-Bold, Gilroy" font-weight="700"><tspan x="0" y="0">Destination</tspan></text>
+        <text id="Time" transform="translate(-2527.702 6202.577)" fill="#333" font-size="12" font-family="Gilroy-Bold, Gilroy" font-weight="700"><tspan x="0" y="0">Time</tspan></text>
+        <text id="Gate" transform="translate(-2423.526 6197.961)" fill="#333" font-size="11" font-family="Gilroy-Bold, Gilroy" font-weight="700"><tspan x="0" y="0">Gate</tspan></text>
+        <text id="Remarks" transform="translate(-2317.122 6197.961)" fill="#333" font-size="11" font-family="Gilroy-Bold, Gilroy" font-weight="700"><tspan x="0" y="0">Remarks</tspan></text>
+        <g id="Group_15975" data-name="Group 15975" transform="translate(-2768.654 6424.255)">
+          <rect id="Rectangle_4132" data-name="Rectangle 4132" width="95.889" height="37.765" rx="4" transform="translate(0 0)" fill="#ececec"/>
+          <rect id="Rectangle_4134" data-name="Rectangle 4134" width="95.889" height="37.765" rx="4" transform="translate(234.395 0)" fill="#ececec"/>
+          <rect id="Rectangle_4135" data-name="Rectangle 4135" width="95.889" height="37.765" rx="4" transform="translate(339.755 0)" fill="#ececec"/>
+          <rect id="Rectangle_4133" data-name="Rectangle 4133" width="119.565" height="37.765" rx="4" transform="translate(105.359 0)" fill="#ececec"/>
+          <rect id="Rectangle_4136" data-name="Rectangle 4136" width="140.874" height="37.765" rx="4" transform="translate(445.114 0)" fill="#ececec"/>
+        </g>
+        <g id="Group_16087" data-name="Group 16087" transform="translate(-2768.654 6355.59)">
+          <rect id="Rectangle_4132-2" data-name="Rectangle 4132" width="95.889" height="37.765" rx="4" transform="translate(0 0)" fill="#ececec"/>
+          <rect id="Rectangle_4134-2" data-name="Rectangle 4134" width="95.889" height="37.765" rx="4" transform="translate(234.395 0)" fill="#ececec"/>
+          <rect id="Rectangle_4135-2" data-name="Rectangle 4135" width="95.889" height="37.765" rx="4" transform="translate(339.755 0)" fill="#ececec"/>
+          <rect id="Rectangle_4133-2" data-name="Rectangle 4133" width="119.565" height="37.765" rx="4" transform="translate(105.359 0)" fill="#ececec"/>
+          <rect id="Rectangle_4136-2" data-name="Rectangle 4136" width="140.874" height="37.765" rx="4" transform="translate(445.114 0)" fill="#ececec"/>
+        </g>
+        <g id="Group_16088" data-name="Group 16088" transform="translate(-2768.654 6219.977)">
+          <rect id="Rectangle_4132-3" data-name="Rectangle 4132" width="95.889" height="37.765" rx="4" transform="translate(0)" fill="#ececec"/>
+          <rect id="Rectangle_4134-3" data-name="Rectangle 4134" width="95.889" height="37.765" rx="4" transform="translate(234.395)" fill="#ececec"/>
+          <rect id="Rectangle_4135-3" data-name="Rectangle 4135" width="95.889" height="37.765" rx="4" transform="translate(339.755)" fill="#ececec"/>
+          <rect id="Rectangle_4133-3" data-name="Rectangle 4133" width="119.565" height="37.765" rx="4" transform="translate(105.359)" fill="#ececec"/>
+          <rect id="Rectangle_4136-3" data-name="Rectangle 4136" width="140.874" height="37.765" rx="4" transform="translate(445.114)" fill="#ececec"/>
+        </g>
+        <line id="Line_54" data-name="Line 54" x2="652.282" transform="translate(-2768.063 6158.093)" fill="none" stroke="#cbd4ff" stroke-width="0.5"/>
+        <g id="Group_16086" data-name="Group 16086" transform="translate(-2796.733 6265.142)">
+          <g id="Rectangle_4208" data-name="Rectangle 4208" transform="translate(0)" fill="#fff" stroke="#f5f5f5" stroke-width="1">
+            <rect width="730.413" height="79.519" rx="4" stroke="none"/>
+            <rect x="0.5" y="0.5" width="729.413" height="78.519" rx="3.5" fill="none"/>
+          </g>
+          <g id="Group_15973" data-name="Group 15973" transform="translate(24.86 19.085)">
+            <rect id="Rectangle_4132-4" data-name="Rectangle 4132" width="113.646" height="39.76" rx="4" transform="translate(0 0)" fill="#ececec"/>
+            <rect id="Rectangle_4134-4" data-name="Rectangle 4134" width="113.646" height="39.76" rx="4" transform="translate(267.542 0)" fill="#ececec"/>
+            <rect id="Rectangle_4135-4" data-name="Rectangle 4135" width="113.646" height="39.76" rx="4" transform="translate(394.21 0)" fill="#ececec"/>
+            <rect id="Rectangle_4133-4" data-name="Rectangle 4133" width="131.403" height="39.76" rx="4" transform="translate(125.484 0)" fill="#ececec"/>
+            <rect id="Rectangle_4136-4" data-name="Rectangle 4136" width="168.101" height="39.76" rx="4" transform="translate(520.878 0)" fill="#ececec"/>
+            <text id="CAD871" transform="translate(35.823 23.637)" fill="#203be7" font-size="12" font-family="Gilroy-Bold, Gilroy" font-weight="700"><tspan x="0" y="0">CAD871</tspan></text>
+            <text id="Berlin" transform="translate(175.686 23.637)" fill="#203be7" font-size="12" font-family="Gilroy-Bold, Gilroy" font-weight="700"><tspan x="0" y="0">Berlin</tspan></text>
+            <text id="_07:50" data-name="07:50" transform="translate(309.365 22.88)" fill="#203be7" font-size="12" font-family="Gilroy-Bold, Gilroy" font-weight="700"><tspan x="0" y="0">07:50</tspan></text>
+            <text id="A-11" transform="translate(439.533 23.637)" fill="#203be7" font-size="12" font-family="Gilroy-Bold, Gilroy" font-weight="700"><tspan x="0" y="0">A-11</tspan></text>
+            <text id="Gote_closing" data-name="Gote closing" transform="translate(569.929 22.88)" fill="#203be7" font-size="12" font-family="Gilroy-Bold, Gilroy" font-weight="700"><tspan x="0" y="0">Gote closing</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

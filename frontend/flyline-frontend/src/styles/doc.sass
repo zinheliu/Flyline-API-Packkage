@@ -1,0 +1,77 @@
+@import './variables'
+.doc-page-header
+  border-bottom: solid 0.5px #EDEEF6
+
+.dash
+  height: 0
+  border-bottom: solid 0.5px #EDEEF6
+
+.custom-select-box
+  width: min-content
+  height: 35px
+  font-size: 14px
+  padding: 8px 30px 8px 19px
+  text-align: left
+  background: #fff url('../assets/images/svg/arrow.svg') no-repeat right 0.75rem center/16px 5px
+  border: none
+  border-radius: 4px
+  background-color: #cceffc
+  &:focus
+    outline: none
+    box-shadow: none
+.show-hide-property-btn
+  height: 35px
+  font-size: 12px
+  font-family: Gilroy-Semibold
+  text-align: left
+  border: none
+  border-radius: 4px
+  background-color: #203BE7
+  display: flex
+  align-items: center
+  &:focus, &:active, &:hover
+    background-color: #203BE7 !important
+    outline: none !important
+    box-shadow: none !important
+    border: none !important
+    
+
+section
+  &.doc
+    scroll-margin: 20px
+
+.property-expansion-panel
+  padding-left: 25px
+  border-left: solid 2px $blue
+.preview-btn
+  background-color: #02AEED
+  padding: 5px 10px
+  border-radius: 5px
+  color: #cceffc
+  font-size: 12px
+
+.page-index
+  border: solid 1.9px #e9e9e9
+  background-color: #ffffff
+  padding: 30px 30px
+  border-radius: 10px
+  @media screen and ( max-width: 800px )
+    padding: 10px
+  ol
+    padding-inline-start: 20px
+    li
+      color: #333333
+      line-height: 3;
+
+
+.navigation-btn
+  min-width: 166px
+  height: 40px
+  border: none
+  background-color: #203BE7
+  font-size: 14px
+  font-stretch: normal
+  font-style: normal
+  line-height: 1.43
+  letter-spacing: normal
+  color: #ffffff

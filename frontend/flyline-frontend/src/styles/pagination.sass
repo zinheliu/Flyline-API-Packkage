@@ -1,0 +1,35 @@
+.custom-pagination
+  .page-item
+    &:first-child , &:last-child
+      .page-link
+        height: 31px
+        width: 31px
+        border-radius: 10px
+        border: solid 1px #d9dbe9
+        background-color: #ffffff
+        color: #333333
+    .page-link
+      padding: 0
+      border: none
+      font-size: 16px
+      font-weight: 500
+      font-stretch: normal
+      font-style: normal
+      line-height: 1.38
+      letter-spacing: normal
+      color: #B3B8C7
+      display: flex
+      align-items: center
+      justify-content: center
+      height: 31px
+      margin: 0 12px
+      background-color: transparent
+      &:focus
+        box-shadow: none
+    
+    &.active
+      .page-link
+        color: #333333
+        z-index: 1
+        
+      

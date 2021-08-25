@@ -1,0 +1,61 @@
+.user-avatar
+  min-width: 34px
+  min-height: 34px
+  max-width: 34px
+  max-height: 34px
+  border-radius: 50%
+  background-color: #203BE7
+  position: relative
+  &__team
+    @extend .user-avatar
+    min-width: 38px
+    min-height: 38px
+    max-width: 38px
+    max-height: 38px
+    span
+      font-size: 14px !important
+  span
+    color: #ffffff
+    font-size: 16px
+  img
+    border-radius: 50%
+    max-height: 100%
+    max-width: 100%
+  &.mini
+    width: 25px
+    height: 25px
+    span
+      font-size: 14px
+  &-large
+    @extend .user-avatar
+    width: 70px
+    height: 70px
+    span
+      font-size: 26px
+  &__square-medium
+    @extend .user-avatar
+    border-radius: 4px
+    width: 20px
+    height: 20px
+  &__team
+    @extend .user-avatar
+    min-width: 34px
+    min-height: 34px
+    max-width: 34px
+    max-height: 34px
+    span
+      font-size: 14px
+  .edit-btn
+    position: absolute
+    width: 18px
+    height: 18px
+    background-color: #203BE7
+    border-radius: 50%
+    bottom: 0
+    right: 0
+    display: flex
+    justify-content: center
+    align-items: center
+    svg
+      height: 12px
+      width: 12px

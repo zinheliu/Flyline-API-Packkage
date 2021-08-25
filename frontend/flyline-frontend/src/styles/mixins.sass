@@ -1,0 +1,53 @@
+@mixin margin-padding($from, $to)
+  @for $i from $from to $to
+    .m-#{$i}-px
+      margin: $i + px
+    .ml-#{$i}-px
+      margin-left: $i + px
+    .mr-#{$i}-px
+      margin-right: $i + px
+    .mt-#{$i}-px
+      margin-top: $i + px
+    .mb-#{$i}-px
+      margin-bottom: $i + px
+    .mx-#{$i}-px
+      margin-left: $i + px
+      margin-right: $i + px
+    .my-#{$i}-px
+      margin-top: $i + px
+      margin-bottom: $i + px
+    
+    .p-#{$i}-px
+      padding: $i + px
+    .pl-#{$i}-px
+      padding-left: $i + px
+    .pr-#{$i}-px
+      padding-right: $i + px
+    .pt-#{$i}-px
+      padding-top: $i + px
+    .pb-#{$i}-px
+      padding-bottom: $i + px
+    .px-#{$i}-px
+      padding-left: $i + px
+      padding-right: $i + px
+    .py-#{$i}-px
+      padding-top: $i + px
+      padding-bottom: $i + px
+
+@include margin-padding(0, 300)
+
+@mixin font($from, $to)
+  @for $i from $from to $to
+    .f-#{$i}-px
+      font-size: $i + px
+
+@include font(0, 50)
+
+@mixin height-width($from, $to)
+  @for $i from $from to $to
+    .w-#{$i}-px
+      width: $i + px
+    .h-#{$i}-px
+      width: $i + px
+
+@include height-width(0, 300)

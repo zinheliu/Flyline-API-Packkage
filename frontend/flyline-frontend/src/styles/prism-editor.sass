@@ -1,0 +1,31 @@
+.prism-editor-wrapper
+  // background-color: #4F576A
+  background-color: #F7FAFC
+  padding: 15px 0
+  border-bottom-left-radius: 10px
+  border-bottom-right-radius: 10px
+  max-height: 300px
+.prism-editor-wrapper .prism-editor__line-number , .prism-editor__editor , .prism-editor__textarea
+  line-height: 2 !important
+
+pre
+  &.prism-editor
+    &__editor
+      font-size: 14px !important
+.prism-editor
+  &__line-number
+    color: #697485 !important
+  &__line-numbers
+    font-size: 14px !important
+    margin-right: 20px !important
+    @media screen and (max-width: 800px)
+      margin-right: 10px !important
+
+.token
+  &.constant
+    color: #FF7600
+  &.string
+    color: #40CE53
+  &.operator
+    // color: #ffffff
+    color: #AB22AD

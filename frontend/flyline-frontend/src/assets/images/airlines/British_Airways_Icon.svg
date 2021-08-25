@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="90" viewBox="0 0 90 90">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.699" y1="-0.197" x2="0.338" y2="1.163" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e6ebef"/>
+      <stop offset="0.076" stop-color="#bbcee5"/>
+      <stop offset="0.185" stop-color="#85a9d8"/>
+      <stop offset="0.28" stop-color="#5d8fcf"/>
+      <stop offset="0.354" stop-color="#457ec9"/>
+      <stop offset="0.4" stop-color="#3c78c7"/>
+      <stop offset="0.9" stop-color="#2e5c99"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_15700" data-name="Group 15700" transform="translate(2766 -13325)">
+    <g id="Group_15695" data-name="Group 15695" transform="translate(-210 -110)">
+      <g id="Group_15685" data-name="Group 15685" transform="translate(-105 110)">
+        <g id="Group_15675" data-name="Group 15675" transform="translate(-105)">
+          <g id="Group_15671" data-name="Group 15671" transform="translate(-105)">
+            <g id="Group_15666" data-name="Group 15666" transform="translate(-945 -220)">
+              <g id="Group_15639" data-name="Group 15639">
+                <g id="Group_15659" data-name="Group 15659">
+                  <g id="Group_15610" data-name="Group 15610" transform="translate(-105 220)">
+                    <g id="Group_15599" data-name="Group 15599" transform="translate(-630 -219)">
+                      <g id="Rectangle_3882" data-name="Rectangle 3882" transform="translate(-561 13544)" fill="#fff" stroke="#e9e9e9" stroke-width="1.9">
+                        <rect width="90" height="90" rx="15" stroke="none"/>
+                        <rect x="0.95" y="0.95" width="88.1" height="88.1" rx="14.05" fill="none"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="British_Airways-Logo" transform="translate(-2955.664 13374.557)">
+      <path id="Path_21021" data-name="Path 21021" d="M234.018,9.213c-2.664,1.782-8.434,3.309-11.275,4.028-3.879.981-5.6,1.328-7.77,1.8-2.456.537-7.37,1.538-7.37,1.538a172.078,172.078,0,0,0,17.353,2.66,70.583,70.583,0,0,0,8.636-2.6,25.54,25.54,0,0,0,5.287-2.271,3.532,3.532,0,0,0,1.572-1.761,1.331,1.331,0,0,0,.046-.6.663.663,0,0,0-.036-.191,2.15,2.15,0,0,0-.132-.348,2.608,2.608,0,0,0-.937-.873,9.559,9.559,0,0,0-3.188-1.2q-.974-.206-1.976-.339Z" transform="translate(23.214 -16.635)" fill="url(#linear-gradient)"/>
+      <path id="Path_21022" data-name="Path 21022" d="M202,8.552a1.769,1.769,0,0,0-.052-.331,1.29,1.29,0,0,0-.178-.4,3.42,3.42,0,0,0-.464-.56,4.145,4.145,0,0,0-.55-.44,7.217,7.217,0,0,0-2.938-1.035,27.247,27.247,0,0,0-3.417-.176c-.559-.008-4.169.023-5.1.04-4.122.087-9.167.1-10.489.1-13.645.061-19.584-.238-26.195-1.6a74.437,74.437,0,0,1-8.743-2.234C148.83,1.74,177.771.509,183.05.365c3.457-.1,5.911-.122,7.874,0a25.763,25.763,0,0,1,3.121.351,14.693,14.693,0,0,1,2.573.712,6.1,6.1,0,0,1,2.657,1.753,4.552,4.552,0,0,1,.341.423c.22.314.475.7.563.845A18.867,18.867,0,0,1,201.353,6.5c.128.256.238.521.35.781a5.173,5.173,0,0,1,.186.524,3.033,3.033,0,0,1,.1.579Z" transform="translate(61.731 -12)" fill="#ce210f"/>
+    </g>
+  </g>
+</svg>
